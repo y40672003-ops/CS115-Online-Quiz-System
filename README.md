@@ -1,5 +1,3 @@
-# CS115-Online-Quiz-System
-Console-based Online Quiz Management System in C (CS-115 Term Project, NED University).
 # CS115 Online Quiz Management System
 
 A console-based Online Quiz Management System written in C.
